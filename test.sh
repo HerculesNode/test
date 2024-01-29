@@ -1,6 +1,6 @@
 #!/bin/bash
 echo -e ''
-curl -s https://scannerx.net/setup/logo.txt | bash && sleep 3
+curl -s https://scannerx.net/setup/logohercul.txt | bash && sleep 3
 echo -e ''
 GREEN="\e[32m"
 NC="\e[0m"
